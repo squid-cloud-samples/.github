@@ -1,5 +1,3 @@
-## Squid AI samples
-
 # Squid AI Samples
 
 🦑 Welcome to Squid AI! Here you can find multiple samples showcasing how to use features of Squid.
